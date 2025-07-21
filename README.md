@@ -90,13 +90,19 @@
 **Point of Sale System** (Feb 2024 - Apr 2024)  
 - Complete POS with Java backend and responsive frontend
 
-## 📊 GitHub Stats
+## 📊 My Coding Journey
 
 <p align="center">
-  <img alt="angelargdeveloper's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=angelargdeveloper&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9" height="192px"/>
-  <img alt="angelargdeveloper's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelargdeveloper&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9" height="192px"/>
-  <br />
-  <b>Note:</b> Stats don't reflect experience or skill level.
+  <a href="https://github.com/angelargdeveloper">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelargdeveloper&theme=react&hide_border=true&background=1F222E&stroke=9d5dd9&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angelargdeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&text_color=FFFFFF&hide_title=true" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelargdeveloper&theme=react-dark&bg_color=1F222E&hide_border=true&color=9d5dd9&line=F85D7F&point=FFFFFF" />
+</p>
+
+<p align="center">
+  <i>"Statistics measure activity, not ability"</i>
 </p>
 
 <h3 align="center">
