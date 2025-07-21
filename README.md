@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:angelarguijo18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-e81744?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="TU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/angel-arguijo-927465292/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://angel-portafolio-two.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/angelargdeveloper?tab=repositories"><img src="https://img.shields.io/badge/-Proyectos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -68,6 +68,18 @@
 
 ---
 
+## Tools & Design
+
+<div align="center">
+  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+  <img alt="Appian" src="https://img.shields.io/badge/-Appian-00BCDC?style=flat-square&logo=appian&logoColor=white">
+</div>
+
+---
+
 ## 💼 Experiencia Destacada
 
 <div align="center">
@@ -106,13 +118,21 @@ Sistema de punto de venta con reporting
 ## 📈 Mi Actividad en GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelargdeveloper&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&include_all_commits=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelargdeveloper&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&hide=html,css)
 
+<p align="center">
+  <a href="https://github.com/angelargdeveloper">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelargdeveloper&theme=react&hide_border=true&background=1F222E&stroke=9d5dd9&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angelargdeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&text_color=FFFFFF&hide_title=true" />
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelargdeveloper&theme=react-dark&bg_color=1F222E&hide_border=true&color=9d5dd9&line=F85D7F&point=FFFFFF" />
+</p>
+
+<p align="center">
+  <i>"Las estadísticas miden la actividad, no la capacidad"</i>
+</p>
 </div>
 
 <p align="center">
-  <i>"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente"</i>
+  <i>"Evoluciona o entra en bucle..."</i>
 </p>
