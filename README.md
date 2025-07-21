@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hola! Soy Ángel Arguijo | Systems Enginner👋
+  ¡Hola! Soy Ángel Arguijo | Ingeniero en Sistemas👋
 </h1>
 
 <p style="position: relative; z-index: 1;" align="center">
@@ -23,14 +23,22 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Programming Languages
+<div>
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</div>
+
+### Frontend Development
 <div>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
   <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
@@ -40,11 +48,9 @@
 ### Backend & DevOps
 <div>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Appian" src="https://img.shields.io/badge/-Appian-00BCDC?style=flat-square&logo=appian&logoColor=white">
 </div>
 
 ### Databases
@@ -55,30 +61,34 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white">
 </div>
 
+### Tools & Design
+<div>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+</div>
+
 ## 💻 Professional Experience
 
 **Shifra SPA** - Fullstack Developer (Nov 2024 - Mar 2025)  
 - Developed key features for internal platform (appointments, patients, payments management)
 - Designed public Landing Page with integrated scheduling system
-- Created RESTful APIs for data synchronization between systems
 - Tech: Next.js, Tailwind, PostgreSQL
 
 **BISICO S.A de C.V** - Fullstack Developer (Mar 2024 - Apr 2025)  
 - Migrated ERP from ASP.NET Framework to ASP.NET Core MVC
-- Managed databases for new modules implementation
 - Tech: C#, SQL Server, ASP.NET Core
 
 ## 🚀 Personal Projects
 
 **Vehicle Maintenance System** (Aug 2024 - Dec 2024)  
-- Fleet management web/mobile app with maintenance tracking
-- Custom user roles and permissions system
-- Tech: Angular, Node.js, Ionic, MySQL
+- Fleet management web/mobile app with Angular, Node.js and Ionic
 
 **Point of Sale System** (Feb 2024 - Apr 2024)  
-- Complete POS with inventory management and reporting
-- REST API with Java and responsive frontend
-- Tech: JavaScript, Bootstrap, Java, MySQL
+- Complete POS with Java backend and responsive frontend
 
 ## 📊 GitHub Stats
 
