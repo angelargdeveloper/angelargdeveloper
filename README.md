@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  ¡Hola! Soy Ángel Arguijo | Ingeniero en Sistemas Computacionales👋 
+  ¡Hola! Soy Ángel Arguijo | A; CODE 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
