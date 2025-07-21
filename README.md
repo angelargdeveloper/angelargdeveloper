@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hola! Soy Ángel Arguijo | System Enginner👋
+  ¡Hola! Soy Ángel Arguijo | Systems Enginner👋
 </h1>
 
 <p style="position: relative; z-index: 1;" align="center">
