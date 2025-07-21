@@ -50,7 +50,8 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
   <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Appian" src="https://img.shields.io/badge/-Appian-00BCDC?style=flat-square&logo=appian&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 </div>
 
 ### Databases
@@ -63,12 +64,11 @@
 
 ### Tools & Design
 <div>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
+  <img alt="Appian" src="https://img.shields.io/badge/-Appian-00BCDC?style=flat-square&logo=appian&logoColor=white">
 </div>
 
 ## 💻 Professional Experience
