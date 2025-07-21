@@ -1,110 +1,118 @@
 <h1 align="center">
-  ¡Hola! Soy Ángel Arguijo | Ingeniero en Sistemas👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  ¡Hola! Soy Ángel Arguijo | Ingeniero en Sistemas Computacionales👋 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p style="position: relative; z-index: 1;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!;Ingeniero+en+Sistemas+Computacionales;Specializing+in+DevOps+Solutions" />
-</p>
-
-<p align="center">
-  <a href="mailto:angelarguijo18@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-nunes/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://angel-portafolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/angelargdeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<div>
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-</div>
-
-### Frontend Development
-<div>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7930d9?style=flat-square&logo=bootstrap&logoColor=white">
-</div>
-
-### Backend & DevOps
-<div>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
-  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-</div>
-
-### Databases
-<div>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-589636?style=flat-square&logo=mongodb&logoColor=white">
-</div>
-
-### Tools & Design
-<div>
-  <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white">
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white">
-  <img alt="Appian" src="https://img.shields.io/badge/-Appian-00BCDC?style=flat-square&logo=appian&logoColor=white">
-</div>
-
-## 💻 Professional Experience
-
-**Shifra SPA** - Fullstack Developer (Nov 2024 - Mar 2025)  
-- Developed key features for internal platform (appointments, patients, payments management)
-- Designed public Landing Page with integrated scheduling system
-- Tech: Next.js, Tailwind, PostgreSQL
-
-**BISICO S.A de C.V** - Fullstack Developer (Mar 2024 - Apr 2025)  
-- Migrated ERP from ASP.NET Framework to ASP.NET Core MVC
-- Tech: C#, SQL Server, ASP.NET Core
-
-## 🚀 Personal Projects
-
-**Vehicle Maintenance System** (Aug 2024 - Dec 2024)  
-- Fleet management web/mobile app with Angular, Node.js and Ionic
-
-**Point of Sale System** (Feb 2024 - Apr 2024)  
-- Complete POS with Java backend and responsive frontend
-
-## 📊 My Coding Journey
-
-<p align="center">
-  <a href="https://github.com/angelargdeveloper">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelargdeveloper&theme=react&hide_border=true&background=1F222E&stroke=9d5dd9&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=angelargdeveloper&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&text_color=FFFFFF&hide_title=true" />
-  </a>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelargdeveloper&theme=react-dark&bg_color=1F222E&hide_border=true&color=9d5dd9&line=F85D7F&point=FFFFFF" />
-</p>
-
-<p align="center">
-  <i>"Statistics measure activity, not ability"</i>
-</p>
-
 <h3 align="center">
-  Let's connect and talk tech!
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=A471CF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;DevOps+Enthusiast;Ingeniero+en+Sistemas;Problem+Solver"/>
 </h3>
+
+<p align="center">
+  <a href="mailto:angelarguijo18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-e81744?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="TU_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://angel-portafolio-two.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/angelargdeveloper?tab=repositories"><img src="https://img.shields.io/badge/-Proyectos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experiencia Destacada
+
+<div align="center">
+  
+**🚀 Shifra SPA** - Fullstack Developer  
+*Next.js · Tailwind · PostgreSQL · Nov 2024 - Mar 2025*  
+✔ Desarrollo de plataforma interna con gestión de citas y pacientes  
+✔ Implementación de APIs RESTful  
+✔ Optimización de UX/UI  
+
+**🏗️ BISICO S.A de C.V** - Fullstack Developer  
+*ASP.NET Core · SQL Server · Mar 2024 - Apr 2025*  
+✔ Migración de ERP a arquitectura moderna  
+✔ Gestión de bases de datos para nuevos módulos  
+
+</div>
+
+---
+
+## 🌟 Proyectos Recientes
+
+<div align="center">
+
+[![Vehicle Maintenance System](https://img.shields.io/badge/🚗-Vehicle_Maintenance_System-9d5dd9?style=for-the-badge)](https://github.com/angelargdeveloper/vehicle-maintenance)  
+*Angular · Node.js · Ionic · MySQL*  
+Sistema completo para gestión de flotas vehiculares  
+
+[![Point of Sale](https://img.shields.io/badge/💻-Point_of_Sale_System-F85D7F?style=for-the-badge)](https://github.com/angelargdeveloper/pos-system)  
+*Java · JavaScript · Bootstrap · MySQL*  
+Sistema de punto de venta con reporting  
+
+</div>
+
+---
+
+## 📈 Mi Actividad en GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelargdeveloper&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&include_all_commits=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelargdeveloper&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&hide=html,css)
+
+</div>
+
+<p align="center">
+  <i>"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo inteligente"</i>
+</p>
