@@ -83,8 +83,18 @@
 ## 💼 Experiencia Destacada
 
 <div align="center">
+
+**🎫 BjxIT - GalileoDesk - Fullstack Developer
+.NET 8.0 · Angular 16 · SQL Server · SignalR · Sep 2025 - Presente
+✔ Desarrollo de sistema ITSM/Service Desk empresarial con arquitectura multicapa
+✔ Implementación de APIs RESTful (30+ controllers) y workflows dinámicos
+✔ Comunicación en tiempo real con SignalR para notificaciones y updates
+✔ Optimización de stored procedures y gestión de base de datos SQL Server
+✔ Desarrollo de interfaces con Angular 16, TypeScript y PrimeNG
+✔ Autenticación y autorización con IdentityServer4/JWT 
+
   
-**🚀 Shifra SPA** - Fullstack Developer  
+**🚀 Shifra SPA** - Fullstack Developer Web
 *Next.js · Tailwind · PostgreSQL · Nov 2024 - Mar 2025*  
 ✔ Desarrollo de plataforma interna con gestión de citas y pacientes  
 ✔ Implementación de APIs RESTful  
